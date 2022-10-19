@@ -22,7 +22,7 @@ void times_table(void)
 				_putchar(' ');
 			else
 				_putchar((prod / 10) + '0');
-/usr/bin/bash: wq: command not found
+			
 			_putchar((prod % 10) + '0');
 		}
 		
