@@ -1,1 +1,1 @@
-This Is 2nd Pointer , Array & String Assingment
+This is my 2nd task in pointer assingment.
